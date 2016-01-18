@@ -1,0 +1,28 @@
+name: 'S:3'
+favicon: null
+layout_spectrum: 0.13633479923009872
+typography_spectrum: 0.22497662319801748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.01689983461983502
+  lightness: 0.7207465334795415
+  saturation: 0.9705564845353365
+  rhythmicContrast: 0.07092136330902576
+purpose: []
